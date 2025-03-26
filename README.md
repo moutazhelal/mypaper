@@ -1,4 +1,4 @@
-# mypaper
+# Title : This is a changed title 
 
 ## Introduction 
 This is an inctrodcution
