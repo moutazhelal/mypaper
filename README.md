@@ -26,6 +26,8 @@ My mind
 
 
 ## Bio
+Book 1 
+Book 2 
 
 ## Thank you very much 
 
